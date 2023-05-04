@@ -2,8 +2,6 @@
 
 ## Sobre
 ```
-Trabalhei os últimos sete anos com edição de vídeo, vinhetas para cinema.
-Estou estudando na Alura e busco uma posição como Front-end Jr.
 Minhas novas experiências na área estão registradas neste GitHub, 
 estudos em HTML, CSS, JavaScript, Java, SQL e ShellScript.
 ```
