@@ -1,9 +1,9 @@
 # Hi there 👋
 
-## Sobre
+## About
 ```
-Minhas novas experiências na área estão registradas neste GitHub, 
-estudos em HTML, CSS, JavaScript, Java, SQL e ShellScript.
+Welcome to my GitHub! Here you'll find my latest projects and studies in HTML, CSS, JavaScript, Java, SQL, and ShellScript. 
+I'm passionate about creating sleek, user-friendly front-end designs and constantly expanding my knowledge in web development.
 ```
 <!--
 **wardedcoffee/wardedcoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
